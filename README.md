@@ -147,4 +147,13 @@ After you are done modifying the input array, return the new length of the array
      Inversion occurs when i < j and a[i] > a[j], where 'i' and 'j' are the index numbers of present and next element respectively, and 'a' represents array
      Eg: Input: [70,50,60,10,20,30,80,15] Output: 17
     </ol><br>
+       <li> <b>Day - 10  </b><a href="https://www.linkedin.com/posts/shivam-kumar-946614277_day10-codesprintbyusckiit-30dayscodechallenge-activity-7210937723547734016-tmYU?utm_source=share&utm_medium=member_desktop">  LinkedIn Post</a><br></li>
+    <ol>
+      <li><b>1. Binary Strings Problem</b></a></li>
+      Print all binary stringd of size 'N' without consecutive ones<br>
+      <li><b>2. Remove Duplicates</b></a></li>
+      Remove duplicates from a sorted array in-place such that each element appears only once and returns the new string ( The string only consists of smallcase alphabets i.e. from 'a' to 'z' )
+      <li><b>3. Tiling Problem</b></a></li>
+     Given a ' 2 x n ' board and tiles of size ' 2 x 1 ', count the number of ways to tile the given board using ' 2 x 1 ' tiles. ( A tile can be placed horizontally or vertically )
+    </ol><br>
 </ul>
