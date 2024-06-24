@@ -135,4 +135,25 @@ After you are done modifying the input array, return the new length of the array
      Print the nth fibonacci number.
      Eg: Input: 9 Output: 34
     </ol><br>
+   <li> <b>Day - 9  </b><a href="https://www.linkedin.com/posts/shivam-kumar-946614277_day9-codesprintbyusckiit-30dayscodechallenge-activity-7210625729246429184-H-jM?utm_source=share&utm_medium=member_desktop">  LinkedIn Post</a><br></li>
+    <ol>
+      <li><b>1. Write a program to find the majority element from a list of given elements.</b></a></li>
+      The element having frequency more than N/2 is a majority element , where N is the total number of elements present
+      Eg: Input: [2,2,1,1,2,2] Output: 2<br>
+      <li><b>2. Write a program to sort the colors based on the code given:  </b></a></li>
+      Red -> 0, Green -> 1, Blue -> 2
+      Eg: Input: [1,1,0,2,0,2] Output: [0,0,1,1,2,2]
+      <li><b>Write a program to count the number of inversions possible in an array.</b></a></li>
+     Inversion occurs when i < j and a[i] > a[j], where 'i' and 'j' are the index numbers of present and next element respectively, and 'a' represents array
+     Eg: Input: [70,50,60,10,20,30,80,15] Output: 17
+    </ol><br>
+       <li> <b>Day - 10  </b><a href="https://www.linkedin.com/posts/shivam-kumar-946614277_day10-codesprintbyusckiit-30dayscodechallenge-activity-7210937723547734016-tmYU?utm_source=share&utm_medium=member_desktop">  LinkedIn Post</a><br></li>
+    <ol>
+      <li><b>1. Binary Strings Problem</b></a></li>
+      Print all binary stringd of size 'N' without consecutive ones<br>
+      <li><b>2. Remove Duplicates</b></a></li>
+      Remove duplicates from a sorted array in-place such that each element appears only once and returns the new string ( The string only consists of smallcase alphabets i.e. from 'a' to 'z' )
+      <li><b>3. Tiling Problem</b></a></li>
+     Given a ' 2 x n ' board and tiles of size ' 2 x 1 ', count the number of ways to tile the given board using ' 2 x 1 ' tiles. ( A tile can be placed horizontally or vertically )
+    </ol><br>
 </ul>
