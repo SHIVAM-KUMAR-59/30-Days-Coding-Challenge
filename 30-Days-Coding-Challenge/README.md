@@ -156,4 +156,15 @@ After you are done modifying the input array, return the new length of the array
       <li><b>3. Tiling Problem</b></a></li>
      Given a ' 2 x n ' board and tiles of size ' 2 x 1 ', count the number of ways to tile the given board using ' 2 x 1 ' tiles. ( A tile can be placed horizontally or vertically )
     </ol><br>
+       <li> <b>Day - 11  </b><a href="https://www.linkedin.com/posts/shivam-kumar-946614277_day11-codesprintbyusckiit-30dayscodechallenge-activity-7211312676373692416-92LF?utm_source=share&utm_medium=member_desktop">  LinkedIn Post</a><br></li>
+    <ol>
+      <li><b>1. Merge Sort using Recursion.</b></li>
+      Merge sort is a sorting algorithm that follows the divide-and-conquer approach. It works by recursively dividing the input array into smaller subarrays and sorting those subarrays then merging them back together to obtain the sorted array.
+      Time Complexity: O(n log n)<br>
+      <li><b>2. Quick Sort using Recursion.  </b></a></li>
+      QuickSort is a sorting algorithm based on the Divide and Conquer algorithm that picks an element as a pivot and partitions the given array around the picked pivot by placing the pivot in its correct position in the sorted array.
+      Time Complexity: O(n log n). 
+      <li><a href="https://leetcode.com/problems/search-in-rotated-sorted-array/description/"><b>3. Search in Rotated Sorted Array ( Medium ).</b></a></li>
+     There is an integer array nums sorted in ascending order (with distinct values). Prior to being passed to your function, nums is possibly rotated at an unknown pivot index k (1 <= k < nums.length) such that the resulting array is [nums[k], nums[k+1], ..., nums[n-1], nums[0], nums[1], ..., nums[k-1]] (0-indexed). For example, [0,1,2,4,5,6,7] might be rotated at pivot index 3 and become [4,5,6,7,0,1,2]. Given the array nums after the possible rotation and an integer target, return the index of target if it is in nums, or -1 if it is not in nums. You must write an algorithm with O(log n) runtime complexity.
+    </ol><br>
 </ul>
