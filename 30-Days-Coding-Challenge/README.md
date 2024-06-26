@@ -135,7 +135,7 @@ After you are done modifying the input array, return the new length of the array
      Print the nth fibonacci number.
      Eg: Input: 9 Output: 34
     </ol><br>
-   <li> <b>Day - 9  </b><a href="https://www.linkedin.com/posts/shivam-kumar-946614277_day9-codesprintbyusckiit-30dayscodechallenge-activity-7210625729246429184-H-jM?utm_source=share&utm_medium=member_desktop">  LinkedIn Post</a><br></li>
+    <li> <b>Day - 9  </b><a href="https://www.linkedin.com/posts/shivam-kumar-946614277_day9-codesprintbyusckiit-30dayscodechallenge-activity-7210625729246429184-H-jM?utm_source=share&utm_medium=member_desktop">  LinkedIn Post</a><br></li>
     <ol>
       <li><b>1. Write a program to find the majority element from a list of given elements.</b></a></li>
       The element having frequency more than N/2 is a majority element , where N is the total number of elements present
@@ -166,5 +166,13 @@ After you are done modifying the input array, return the new length of the array
       Time Complexity: O(n log n). 
       <li><a href="https://leetcode.com/problems/search-in-rotated-sorted-array/description/"><b>3. Search in Rotated Sorted Array ( Medium ).</b></a></li>
      There is an integer array nums sorted in ascending order (with distinct values). Prior to being passed to your function, nums is possibly rotated at an unknown pivot index k (1 <= k < nums.length) such that the resulting array is [nums[k], nums[k+1], ..., nums[n-1], nums[0], nums[1], ..., nums[k-1]] (0-indexed). For example, [0,1,2,4,5,6,7] might be rotated at pivot index 3 and become [4,5,6,7,0,1,2]. Given the array nums after the possible rotation and an integer target, return the index of target if it is in nums, or -1 if it is not in nums. You must write an algorithm with O(log n) runtime complexity.
+                                                                                                                                                                                             </ol><br>
+         <li> <b>Day - 12  </b><a href="https://www.linkedin.com/posts/shivam-kumar-946614277_day12-codesprint-30dayscodechallenge-activity-7211610261240127489-EwxC?utm_source=share&utm_medium=member_desktop">  LinkedIn Post</a><br></li><ol>
+       <li><a href = "https://leetcode.com/problems/utf-8-validation/description/ "><b>1. UTF-8 Validation ( Medium )</b></a></li>
+      Given an integer array data representing the data, return whether it is a valid UTF-8 encoding (i.e. it translates to a sequence of valid UTF-8 encoded characters). A character in UTF8 can be from 1 to 4 bytes long, subjected to the following rules: For a 1-byte character, the first bit is a 0, followed by its Unicode code. For an n-bytes character, the first n bits are all one's, the n + 1 bit is 0, followed by n - 1 bytes with the most significant 2 bits being 10.<br>
+      <li><a href = "https://leetcode.com/problems/divide-two-integers/"><b>2. Divide Two Integers ( Medium )</b></a></li>
+      Given two integers dividend and divisor, divide two integers without using multiplication, division, and mod operator. The integer division should truncate toward zero, which means losing its fractional part. For example, 8.345 would be truncated to 8, and -2.7335 would be truncated to -2. Return the quotient after dividing dividend by divisor. Note: Assume we are dealing with an environment that could only store integers within the 32-bit signed integer range: [−231, 231 − 1]. For this problem, if the quotient is strictly greater than 231 - 1, then return 231 - 1, and if the quotient is strictly less than -231, then return -231.
+      <li><a href = "https://leetcode.com/problems/bitwise-and-of-numbers-range/description/"<b>3. Bitwise AND of Numbers Range ( Medium )</b></a></li>
+     Given two integers left and right that represent the range [left, right], return the bitwise AND of all numbers in this range, inclusive.
     </ol><br>
 </ul>
