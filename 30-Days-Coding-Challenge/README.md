@@ -175,4 +175,13 @@ After you are done modifying the input array, return the new length of the array
       <li><a href = "https://leetcode.com/problems/bitwise-and-of-numbers-range/description/"<b>3. Bitwise AND of Numbers Range ( Medium )</b></a></li>
      Given two integers left and right that represent the range [left, right], return the bitwise AND of all numbers in this range, inclusive.
     </ol><br>
+       <li> <b>Day - 13  </b><a href="https://www.linkedin.com/posts/shivam-kumar-946614277_day13-codesprint-30dayscodechallenge-activity-7212090359055622144-pMN7?utm_source=share&utm_medium=member_desktop">  LinkedIn Post</a><br></li>
+    <ol>
+      <li><a href="https://leetcode.com/problems/n-queens/"><b>1. N-Queens ( Hard )</b></a></li>
+      The n-queens puzzle is the problem of placing n queens on an n x n chessboard such that no two queens attack each other. Given an integer n, return all distinct solutions to the n-queens puzzle. You may return the answer in any order. Each solution contains a distinct board configuration of the n-queens' placement, where 'Q' and '.' both indicate a queen and an empty space, respectively.<br>
+      <li><a href="https://leetcode.com/problems/sudoku-solver/description/"><b>2. Sudoku Solver ( Hard ).  </b></a></li>
+      Write a program to solve a Sudoku puzzle by filling the empty cells. A sudoku solution must satisfy all of the following rules: Each of the digits 1-9 must occur exactly once in each row. Each of the digits 1-9 must occur exactly once in each column. Each of the digits 1-9 must occur exactly once in each of the 9 3x3 sub-boxes of the grid. The '.' character indicates empty cells. 
+      <li><a href="https://leetcode.com/problems/subsets/description/"><b>3. Subsets ( Medium ).</b></a></li>
+     Given an integer array nums of unique elements, return all possible subsets (the power set). The solution set must not contain duplicate subsets. Return the solution in any order.
+    </ol><br>
 </ul>
