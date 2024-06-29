@@ -184,6 +184,15 @@ After you are done modifying the input array, return the new length of the array
       <li><a href="https://leetcode.com/problems/subsets/description/"><b>3. Subsets ( Medium ).</b></a></li>
      Given an integer array nums of unique elements, return all possible subsets (the power set). The solution set must not contain duplicate subsets. Return the solution in any order.
     </ol><br>
+       <li> <b>Day - 14  </b><a href="https://www.linkedin.com/posts/shivam-kumar-946614277_day14-codesprint-30dayscodechallenge-activity-7212411189018996737-Aa0b?utm_source=share&utm_medium=member_desktop">  LinkedIn Post</a><br></li>
+    <ol>
+      <li><b>1. Insert and Delete the first Node </b></li>
+      Given a Singly Linked List insert and delete the first node from the Linked List and return the List.<br>
+      <li><b>2. Insert and Delete the last Node</b></li>
+      Given a Singly Linked List insert and delete the last node from the Linked List and return the List.
+      <li><b>3. Insert and Delete a Node at any given position</b></li>
+    Given a Singly Linked List insert the given value at the given index and delete the node present on the given index from the Linked List and return the List.
+    </ol><br>
        <li> <b>Day - 15  </b><a href="https://www.linkedin.com/posts/shivam-kumar-946614277_day12-codesprint-30dayscodechallenge-activity-7211610261240127489-EwxC?utm_source=share&utm_medium=member_desktop">  LinkedIn Post</a><br></li>
     <ol>
       <li><b>1. Linked List Cycle</b></li>
