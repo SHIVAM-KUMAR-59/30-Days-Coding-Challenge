@@ -202,4 +202,13 @@ After you are done modifying the input array, return the new length of the array
       <li><b>3. Adjaceny List</b></li>
     Write a function to determine a undirected graph is connected. The graph is represented using an adjacency list.
     </ol><br>
+        <li> <b>Day - 16  </b><a href="https://www.linkedin.com/posts/shivam-kumar-946614277_day16-codesprint-30dayscodechallenge-activity-7213187288304955392-cxFt?utm_source=share&utm_medium=member_desktop">  LinkedIn Post</a><br></li>
+    <ol>
+      <li>1. Given a Node and it's value, insert it :
+ (i) At the first place.
+ (ii) At the last place.
+ (iii) After a given value of the node.<br>
+      <li><b>2. Given a Linked List display its nodes and thei values in reverse order.</b></li>
+      <li><b>3. Given a Circular Linked List delete a node whose value is given.</b></li>
+    </ol><br>
 </ul>
