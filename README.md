@@ -211,4 +211,14 @@ After you are done modifying the input array, return the new length of the array
       <li><b>2. Given a Linked List display its nodes and thei values in reverse order.</b></li>
       <li><b>3. Given a Circular Linked List delete a node whose value is given.</b></li>
     </ol><br>
+        <li> <b>Day - 17  </b><a href="https://www.linkedin.com/posts/shivam-kumar-946614277_day17-codesprint-30dayscodechallenge-activity-7213500504008482816-fb8O?utm_source=share&utm_medium=member_desktop">  LinkedIn Post</a><br></li>
+    <ol>
+      <li>Insert a given node and its value in the given index using recursion.<br>
+      <li><a href = "https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/"><b>2. Remove Duplicates from Sorted List ( Easy ).</b></a><br>
+      Given the head of a sorted linked list, delete all duplicates such that each element appears only once. Return the linked list sorted as well.
+      </li>
+      <li><a href = "https://leetcode.com/problems/merge-two-sorted-lists/description/"><b>3. Merge Two Sorted Lists ( Easy ).</b></a><br>
+      You are given the heads of two sorted linked lists list1 and list2. Merge the two lists into one sorted list. The list should be made by splicing together the nodes of the first two lists. Return the head of the merged linked list.
+      </li>
+    </ol><br>
 </ul>
