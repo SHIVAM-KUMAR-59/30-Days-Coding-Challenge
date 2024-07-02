@@ -221,4 +221,15 @@ After you are done modifying the input array, return the new length of the array
       You are given the heads of two sorted linked lists list1 and list2. Merge the two lists into one sorted list. The list should be made by splicing together the nodes of the first two lists. Return the head of the merged linked list.
       </li>
     </ol><br>
+        <li> <b>Day - 18  </b><a href="https://www.linkedin.com/posts/shivam-kumar-946614277_day18-codesprint-30dayscodechallenge-activity-7213867311072432129-8WBa?utm_source=share&utm_medium=member_desktop">  LinkedIn Post</a><br></li>
+    <ol>
+      <li><a href = "https://leetcode.com/problems/sort-list/description/"><b>1. Sort List ( Medium ).</b></a><br>
+      Given the head of a linked list, return the list after sorting it in ascending order.</li>
+      <li><a href = "https://leetcode.com/problems/happy-number/description/"><b>2. Happy Number ( Easy ).</b></a>
+      Write an algorithm to determine if a number n is happy. A happy number is a number defined by the following process: Starting with any positive integer replace the number by the sum of the squares of its digits. Repeat the process until the number equals 1 (where it will stay), or it loops endlessly in a cycle which does not include 1. Those numbers for which this process ends in 1 are happy. Return true if n is a happy number, and false if not.
+      </li>
+      <li><a href = "https://leetcode.com/problems/middle-of-the-linked-list/description/"><b>3. Middle of the Linked List ( Medium ).</b></a>
+      Given the head of a singly linked list, return the middle node of the linked list. If there are two middle nodes, return the second middle node..
+      </li>
+    </ol><br>
 </ul>
