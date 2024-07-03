@@ -232,4 +232,16 @@ After you are done modifying the input array, return the new length of the array
       Given the head of a singly linked list, return the middle node of the linked list. If there are two middle nodes, return the second middle node..
       </li>
     </ol><br>
+        <li> <b>Day - 19  </b><a href="https://www.linkedin.com/posts/shivam-kumar-946614277_day19-codesprint-30dayscodechallenge-activity-7214214552803008515-aF08?utm_source=share&utm_medium=member_desktop">  LinkedIn Post</a><br></li>
+    <ol>
+      <li><a href = "https://leetcode.com/problems/reverse-linked-list/description/"><b>1. Reverse Linked List ( Easy ).</b></a><br>
+      Given the head of a singly linked list, reverse the list, and return the reversed list.</li>
+      <li><a href = "https://leetcode.com/problems/reverse-linked-list-ii/description/"><b>2. Reverse Linked List II ( Medium ).</b></a>
+      Given the head of a singly linked list and two integers left and right where left <= right, reverse the nodes of the list from position left to position right, and return the reversed list.
+      </li>
+      <li><a href = "https://leetcode.com/problems/palindrome-linked-list/description/"><b>3. Palindrome Linked List ( Easy ).</b></a>
+      Given the head of a singly linked list, return true if it is a palindrome
+ or false otherwise.
+      </li>
+    </ol><br>
 </ul>
