@@ -244,4 +244,13 @@ After you are done modifying the input array, return the new length of the array
  or false otherwise.
       </li>
     </ol><br>
+         <li> <b>Day - 20  </b><a href="https://www.linkedin.com/posts/shivam-kumar-946614277_day20-codesprint-30dayscodechallenge-activity-7214521097172451328-ZjsN?utm_source=share&utm_medium=member_desktop">  LinkedIn Post</a><br></li>
+    <ol>
+      <li><a href="https://leetcode.com/problems/reorder-list/description/"><b>1.Reorder List ( Medium ).</b></a></li>
+      You are given the head of a singly linked-list. The list can be represented as: L0 → L1 → … → Ln - 1 → Ln Reorder the list to be on the following form: L0 → Ln → L1 → Ln - 1 → L2 → Ln - 2 → … You may not modify the values in the list's nodes. Only nodes themselves may be changed.<br>
+      <li><a href="https://leetcode.com/problems/reverse-nodes-in-k-group/description/"><b>2. Reverse Nodes in k-Group ( Hard ).  </b></a></li>
+      Given the head of a linked list, reverse the nodes of the list k at a time, and return the modified list. k is a positive integer and is less than or equal to the length of the linked list. If the number of nodes is not a multiple of k then left-out nodes, in the end, should remain as it is. You may not alter the values in the list's nodes, only nodes themselves may be changed. 
+      <li><a href="https://leetcode.com/problems/rotate-list/description/"><b>3. Rotate List ( Medium ).</b></a></li>
+Given the head of a linked list, rotate the list to the right by k places.
+    </ol><br>
 </ul>
