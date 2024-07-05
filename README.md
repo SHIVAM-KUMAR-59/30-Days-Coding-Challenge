@@ -253,4 +253,13 @@ After you are done modifying the input array, return the new length of the array
       <li><a href="https://leetcode.com/problems/rotate-list/description/"><b>3. Rotate List ( Medium ).</b></a></li>
 Given the head of a linked list, rotate the list to the right by k places.
     </ol><br>
+        <li> <b>Day - 21  </b><a href="https://www.linkedin.com/posts/shivam-kumar-946614277_day21-codesprint-30dayscodechallenge-activity-7214943631403540480-Uy-T?utm_source=share&utm_medium=member_desktop">  LinkedIn Post</a><br></li>
+    <ol>
+      <li><a href="https://leetcode.com/problems/implement-queue-using-stacks/description/"><b>1 Implement Queue using Stacks ( Easy ).</b></a></li>
+      Implement a first in first out (FIFO) queue using only two stacks. The implemented queue should support all the functions of a normal queue (push, peek, pop, and empty). Implement the MyQueue class: void push(int x) Pushes element x to the back of the queue. int pop() Removes the element from the front of the queue and returns it. int peek() Returns the element at the front of the queue. boolean empty() Returns true if the queue is empty, false otherwise.<br>
+      <li><a href="https://leetcode.com/problems/valid-parentheses/description/"><b>2. Valid Parentheses ( Easy ).  </b></a></li>
+       Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid. An input string is valid if: Open brackets must be closed by the same type of brackets. Open brackets must be closed in the correct order. Every close bracket has a corresponding open bracket of the same type.
+      <li><a href="https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/"><b>3. Minimum Add to Make Parentheses Valid ( Medium ).</b></a></li>
+A parentheses string is valid if and only if: It is the empty string, It can be written as AB (A concatenated with B), where A and B are valid strings, or It can be written as (A), where A is a valid string. You are given a parentheses string s. In one move, you can insert a parenthesis at any position of the string.
+    </ol><br>
 </ul>
