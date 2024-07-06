@@ -262,4 +262,15 @@ Given the head of a linked list, rotate the list to the right by k places.
       <li><a href="https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/"><b>3. Minimum Add to Make Parentheses Valid ( Medium ).</b></a></li>
 A parentheses string is valid if and only if: It is the empty string, It can be written as AB (A concatenated with B), where A and B are valid strings, or It can be written as (A), where A is a valid string. You are given a parentheses string s. In one move, you can insert a parenthesis at any position of the string.
     </ol><br>
+          <li> <b>Day - 22  </b><a href="https://www.linkedin.com/posts/shivam-kumar-946614277_day22-usckiit-30dayscodechallenge-activity-7215352889282609152-yvw6?utm_source=share&utm_medium=member_desktop">  LinkedIn Post</a><br></li>
+    <ol>
+      <li><b>1. GPS Navigation.</b><br>
+      You are working on a sophisticated GPS navigation system that calculates the fastest route in the city . The city is represented by a graph where intersections are nodes and roads between them are edges with travel times. Develop a function that determines the shortest travel from a given starting intersection to all the other intersections in the city.</li>
+      <li><b>2. Data Compression.</b>
+You are working on a data compression project and need to minimize the space required to store a set of characters and their frequencies. One of your colleagues suggests using a tree-based approach to encode the characters efficiently. To evaluate this idea, you decide to implement a system that: 1. Reads a set of characters along with their frequencies. 2. Constructs an optimal binary tree based or tliese frequencies. 3. Generates binary codes for each character. Your task is to write a function that takes a list of characters and their corresponding frequencies, constructs the optimal tree, and returns a dictionary with characters as keys and their binary codes as values.
+      </li>
+      <li><b>3. Vehicle Loading.</b>
+      You are working on a logistics optimization system for a large-scale transportation company. The company needs to maximize the value of items transported in its fleet of vehicles, each with a different weight capacity. Each item has a specific weight and value, and some items may have-dependencies, meaning certain items must be included if another item is selected. Write a function that determines the optimal selection of items to maximize their total value while staying within the given weight capacities of multiple vehicles and respecting the dependencies between items.
+      </li>
+    </ol><br>
 </ul>
