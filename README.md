@@ -273,4 +273,14 @@ You are working on a data compression project and need to minimize the space req
       You are working on a logistics optimization system for a large-scale transportation company. The company needs to maximize the value of items transported in its fleet of vehicles, each with a different weight capacity. Each item has a specific weight and value, and some items may have-dependencies, meaning certain items must be included if another item is selected. Write a function that determines the optimal selection of items to maximize their total value while staying within the given weight capacities of multiple vehicles and respecting the dependencies between items.
       </li>
     </ol><br>
+          <li> <b>Day - 23  </b><a href="https://www.linkedin.com/posts/shivam-kumar-946614277_day23-codesprint-30dayscodechallenge-activity-7215682108915077120-P1wf?utm_source=share&utm_medium=member_desktop">  LinkedIn Post</a><br></li>
+    <ol>
+      <li><b>1. Insert Node.</b><br>
+      Write a function to Insert nodes in a Binary Tree and a Binary Search Tree.</li>
+      <li><b>2. Write a function to check whether a given tree is balanced or not.</b>
+Balanced tree is a tree in which the difference between the height of left and right subtrees is not more than one for all nodes.
+      </li>
+      <li><b>3. Write a funtcion to perform Pre - Order, In - Order and Post- Order Traversals in a given Binary Tree.</b>
+      </li>
+    </ol><br>
 </ul>
