@@ -283,4 +283,17 @@ Balanced tree is a tree in which the difference between the height of left and r
       <li><b>3. Write a funtcion to perform Pre - Order, In - Order and Post- Order Traversals in a given Binary Tree.</b>
       </li>
     </ol><br>
+        <li> <b>Day - 24  </b><a href="https://www.linkedin.com/posts/shivam-kumar-946614277_day24-codesprint-30dayscodechallenge-activity-7216033377651412993-WZy6?utm_source=share&utm_medium=member_desktop">  LinkedIn Post</a><br></li>
+    <ol>
+      <li><b>1. Insert in AVL.</b><br>
+      Write a function to Insert nodes in an AVLTree.
+An AVL tree defined as a self-balancing Binary Search Tree (BST) where the difference between heights of left and right subtrees for any node cannot be more than one.</li>
+      <li><b>Construct a Segment Tree.</b>
+Write a function to construct a Segment Tree.
+Segment Tree is a versatile data structure that allows efficient querying and updating of intervals or segments of an array. It is particularly useful for problems involving range queries, such as finding the sum, minimum, maximum, or any other operation over a specific range of elements in an array.
+      </li>
+      <li><b>Update Segment Tree</b><br>
+      Write a Function to Update a given node in a Segment Tree.
+      </li>
+    </ol><br>
 </ul>
