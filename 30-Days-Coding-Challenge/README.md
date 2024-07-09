@@ -296,4 +296,15 @@ Segment Tree is a versatile data structure that allows efficient querying and up
       Write a Function to Update a given node in a Segment Tree.
       </li>
     </ol><br>
+        <li> <b>Day - 25  </b><a href="https://www.linkedin.com/posts/shivam-kumar-946614277_day25-codesprint-30dayscodechallenge-activity-7216389654445506560-umtn?utm_source=share&utm_medium=member_desktop">  LinkedIn Post</a><br></li>
+    <ol>
+      <li><a href = "https://leetcode.com/problems/binary-tree-level-order-traversal/description/"><b>1. Binary Tree Level Order Traversal ( Medium ).</b></a><br>
+      Given the root of a binary tree, return the level order traversal of its nodes' values. (i.e., from left to right, level by level).</li>
+      <li><a href = "https://leetcode.com/problems/average-of-levels-in-binary-tree/description/"><b>2. Average of Levels in Binary Tree ( Easy ).</b></a><br>
+Given the root of a binary tree, return the average value of the nodes on each level in the form of an array. Answers within 10-5 of the actual answer will be accepted.
+      </li>
+      <li><a href = "https://www.geeksforgeeks.org/level-order-successor-of-a-node-in-binary-tree/"><b>3. Level Order Successor of a Node.</b></a><br>
+      Given a binary tree and a node in the binary tree, find Levelorder successor of the given node. That is, the node that appears after the given node in the level order traversal of the tree.
+      </li>
+    </ol><br>
 </ul>
