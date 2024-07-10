@@ -307,4 +307,13 @@ Given the root of a binary tree, return the average value of the nodes on each l
       Given a binary tree and a node in the binary tree, find Levelorder successor of the given node. That is, the node that appears after the given node in the level order traversal of the tree.
       </li>
     </ol><br>
+       <li> <b>Day - 26  </b><a href="https://www.linkedin.com/posts/shivam-kumar-946614277_day26-codesprint-30dayscodechallenge-activity-7216730300905586688-CZMp?utm_source=share&utm_medium=member_desktop">  LinkedIn Post</a><br></li>
+    <ol>
+      <li><a href="https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/"><b>1. Binary Tree Zigzag Level Order Traversal ( Medium ).</b></a></li>
+      Given the root of a binary tree, return the zigzag level order traversal of its nodes' values. (i.e., from left to right, then right to left for the next level and alternate between).<br>
+      <li><a href="https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/"><b>2. Binary Tree Level Order Traversal II ( Medium ).  </b></a></li>
+       Given the root of a binary tree, return the bottom-up level order traversal of its nodes' values. (i.e., from left to right, level by level from leaf to root).
+      <li><a href="https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/"><b>3. Populating Next Right Pointers in Each Node ( Medium ).</b></a></li> 
+      You are given a perfect binary tree where all leaves are on the same level,  and every parent has two children. The binary tree has the following definition: struct Node { int val; Node *left; Node *right; Node *next; } Populate each next pointer to point to its next right node. If there is no next right node, the next pointer should be set to NULL. Initially, all next pointers are set to NULL.
+    </ol><br>
 </ul>
