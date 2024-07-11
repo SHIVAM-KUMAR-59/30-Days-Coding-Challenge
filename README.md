@@ -316,4 +316,16 @@ Given the root of a binary tree, return the average value of the nodes on each l
       <li><a href="https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/"><b>3. Populating Next Right Pointers in Each Node ( Medium ).</b></a></li> 
       You are given a perfect binary tree where all leaves are on the same level,  and every parent has two children. The binary tree has the following definition: struct Node { int val; Node *left; Node *right; Node *next; } Populate each next pointer to point to its next right node. If there is no next right node, the next pointer should be set to NULL. Initially, all next pointers are set to NULL.
     </ol><br>
+         <li> <b>Day - 27  </b><a href="https://www.linkedin.com/posts/shivam-kumar-946614277_day27-codesprint-30dayscodechallenge-activity-7217097494915108864-bHre?utm_source=share&utm_medium=member_desktop">  LinkedIn Post</a><br></li>
+    <ol>
+      <li><a href = "https://leetcode.com/problems/binary-tree-right-side-view/description/"><b>1. Binary Tree Right Side View ( Medium ).</b></a><br>
+      Given the root of a binary tree, imagine yourself standing on the right side
+of it, return the values of the nodes you can see ordered from top to bottom.</li>
+      <li><a href = "https://leetcode.com/problems/cousins-in-binary-tree/description/"><b>2. Cousins in Binary Tree ( Easy ).</b></a><br>
+Given the root of a binary tree with unique values and the values of two different nodes of the tree x and y, return true if the nodes corresponding to the values x and y in the tree are cousins, or false otherwise. Two nodes of a binary tree are cousins if they have the same depth with different parents. Note that in a binary tree, the root node is at the depth 0, and children of each depth k node are at the depth k + 1.
+      </li>
+      <li><a href = "https://leetcode.com/problems/symmetric-tree/description/"><b>3. Symmetric Tree ( Easy ).</b></a><br>
+Given the root of a binary tree, check whether it is a mirror of itself (i.e., symmetric around its center).
+      </li>
+    </ol><br>
 </ul>
