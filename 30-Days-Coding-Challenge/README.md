@@ -328,4 +328,25 @@ Given the root of a binary tree with unique values and the values of two differe
 Given the root of a binary tree, check whether it is a mirror of itself (i.e., symmetric around its center).
       </li>
     </ol><br>
+          <li> <b>Day - 26  </b><a href="https://www.linkedin.com/posts/shivam-kumar-946614277_day28-codesprint-30dayscodechallenge-activity-7217446246360207360-YfhO?utm_source=share&utm_medium=member_desktop">  LinkedIn Post</a><br></li>
+    <ol>
+      <li><a href="https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/"><b>1. Flatten Binary Tree to Linked List ( Medium ).</b></a></li>
+  Given the root of a binary tree, flatten the tree into a "linked list": The
+ "linked list" should use the same TreeNode class where the right child
+ pointer points to the next node in the list and the left child pointer is
+ always null. The "linked list" should be in the same order as a pre-order
+ traversal of the binary tree.<br>
+      <li><a href="https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/"><b>2. Lowest Common Ancestor of a Binary Tree ( Medium ).  </b></a></li>
+       Given a binary tree, find the lowest common ancestor (LCA) of two given nodes
+ in the tree. According to the definition of LCA on Wikipedia: “The lowest
+ common ancestor is defined between two nodes p and q as the lowest node in T
+ that has both p and q as descendants (where we allow a node to be a
+ descendant of itself).”
+      <li><a href="https://leetcode.com/problems/validate-binary-search-tree/description/"><b>3. Validate Binary Search Tree ( Medium ).</b></a></li> 
+ Given the root of a binary tree, determine if it is a valid binary search
+ tree (BST). A valid BST is defined as follows: The left subtree of a node
+ contains only nodes with keys less than the node's key. The right subtree of
+ a node contains only nodes with keys greater than the node's key. Both the
+ left and right subtrees must also be binary search trees.
+    </ol><br>
 </ul>
