@@ -349,4 +349,22 @@ Given the root of a binary tree, check whether it is a mirror of itself (i.e., s
  a node contains only nodes with keys greater than the node's key. Both the
  left and right subtrees must also be binary search trees.
     </ol><br>
+         <li> <b>Day - 15  </b><a href="https://www.linkedin.com/posts/shivam-kumar-946614277_day29-usckiit-30dayscodechallenge-activity-7217847484377677824-kYQf?utm_source=share&utm_medium=member_desktop">  LinkedIn Post</a><br></li>
+    <ol>
+      <li><b>1. Unique Path</b></li>
+      You are given a grid with dimensions n x m, where each cell in the grid is either free (0) or has an obstacle (1). You need to find the number of unique paths from the top-left corner (0,0) to the bottom-right corner (n-1,m-1) of the grid. You can only move either down or right at any point in time, and you cannot move through obstacles.
+Ex: 
+   Input grid = [[0,0,0], [0,1,0], [0,0,0]] , n = 3, m = 3
+   Output = 2<br>
+      <li><b>2. Count Substring</b></li>
+You are given a string s consisting of lowercase English letters. Your task is to count the number of distinct non-empty subsequences of s. A subsequence of a string is obtained by deleting zero or more characters from the string without changing the order of the remaining characters.
+Ex: 
+   Input: s = "abc"
+   Output: 7
+      <li><b>3. Minimum Substring</b></li>
+You are given two strings, s (the "source" string) and t (the "target" string). Your task is to find the minimum window in s which contains all characters from t in any order. If there is no such window in s that covers all characters in t, return an empty string "". 
+Ex:
+Input: s = "ADOBECODEBANC", t = "ABC"
+Output: "BANC"
+    </ol><br>
 </ul>
