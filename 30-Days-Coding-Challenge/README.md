@@ -367,6 +367,19 @@ Ex:
 Input: s = "ADOBECODEBANC", t = "ABC"
 Output: "BANC"
     </ol><br>
-
-        
+         <li> <b>Day - 30  </b><a href="https://www.linkedin.com/posts/shivam-kumar-946614277_codesprint-codesprint-codesprintbyusckiit-activity-7218276714819334145-b2Xp?utm_source=share&utm_medium=member_desktop">  LinkedIn Post</a><br></li>
+    <ol>
+      <li><b>1. Tree</b></li>
+      Design an algorithm to serialize and deserialize a binary tree. Serialization is the process of converting a tree to a string representation, and deserialization is the process of converting the string back to the original tree structure.<br>
+      <li><b>2. Trading</b></li>
+Design an automated trading system for a financial institution to buy and sell financial instruments across exchanges. The system must process real-time market data, execute trades using algorithms, manage risk and compliance, and monitor performance.
+1. Data Handling and Analysis: Acquire and analyze real-time market data to identify trading opportunities.
+2. Trading Execution: Automatically execute orders through exchange APIs based on algorithmic decisions.
+3. Risk Management and Compliance: Implement controls to manage risk exposure and ensure regulatory compliance.
+4. Performance Monitoring: Track metrics and generate reports on profitability and risk exposure
+      <li><b>3. Manufacturing</b></li>
+A manufacturing company has a production line with several workstations processing batches of raw materials. Each workstation operates in discrete time steps, processing, remaining idle, or passing batches to the next workstation. Workstations have limited capacities and aim to optimize throughput while minimizing downtime and bottlenecks.
+Requirements: 1. Track workstation status (processing, idle, passing) at each time step.
+2. Manage dynamic changes: add/remove workstations, change capacities, vary batch arrival rates.
+3. Simulate the production line over a specified period, providing statistics on throughput, idle tim
 </ul>
