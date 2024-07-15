@@ -1,4 +1,4 @@
-<h1 align="center"><b>30-Days-Coding-Challenge</b></h1>
+<h1 align="center"><b>30 Days-Coding-Challenge</b></h1>
 <div>
 <h3>Overview</h3>
 <h4>The 30-Days-Coding-Challenge is an initiative launched by <a href="https://www.linkedin.com/company/uipath-community-kiit/?originalSubdomain=in">USCKIIT</a> to encourage coding practice and skill enhancement. Participants are required to solve 3 problems each day from their choice of coding platforms using any one of the following languages: C, C++, Java, or Python.<br>
